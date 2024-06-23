@@ -1,0 +1,96 @@
+C20
+C21
+C21Y
+C25
+C25s
+C25Y
+C3
+C30
+C30s
+C31
+C33
+C35
+C51
+C51s
+C53
+C55
+C65
+C67
+C67 5G
+GT 2
+GT 2 Explorer Master
+GT 2 Pro
+GT 3
+GT 5
+GT 5 Pro
+GT 5G
+GT Master Edition
+GT Neo
+GT Neo 2
+GT Neo 2T
+GT Neo 3
+GT Neo 3 150W
+GT Neo 3T
+GT Neo 5
+GT Neo 5 SE
+GT Neo Flash
+Narzo 20
+Narzo 20 Pro
+Narzo 20A
+Narzo 30
+Narzo 30 5G
+Narzo 30A
+Narzo 50
+Narzo 50 5G
+Narzo 50 Pro
+Narzo 50 Pro 5G
+Narzo 50A
+Narzo 50A Prime
+Narzo 50i
+Narzo 50i Prime
+Narzo 60 5G
+Narzo 70 Pro 5G
+Narzo N53
+Note 50
+P1 5G
+P1 Pro 5G
+Pad
+Pad 2
+Pad Mini
+Pad X
+Q2 5G
+Q2 Pro
+Q3 5G
+Q3 Pro 5G
+Q3 Pro Play
+Q3s
+Q3t
+Q5
+Q5 Pro
+Q5i
+U1
+V11 5G
+V11s 5G
+V13 5G
+V15 5G
+V20
+V23
+V25
+V3 5G
+V30
+V5 5G
+X
+X2
+X2 Dual
+X2 Pro
+X3
+X3 Super Zoom
+X50 5G
+X50 Pro
+X50 Pro 5G
+X50 Pro Player
+X50t 5G
+X7 5G
+X7 Pro 5G
+X7 Pro Extreme Edition
+XT
